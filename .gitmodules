@@ -1,0 +1,3 @@
+[submodule "signal_trace_data"]
+	path = signal_trace_data
+	url = git://github.com/Min-Yu/signal_trace_data.git
